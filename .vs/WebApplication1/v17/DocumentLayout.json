@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\dtos\\animalcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\animalcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\dtos\\animalupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\animalupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\services\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|c:\\users\\melan\\desktop\\cs\\apbd\\z3\\apbd_zadanie_3\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA40CA3C-640D-4A2E-ABCC-85DF952872C9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalUpdateDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\AnimalUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalUpdateDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\AnimalUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalCreationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalCreationDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\AnimalCreationDTO.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalCreationDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\AnimalCreationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\AnimalDTO.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\DTOs\\AnimalDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\AnimalDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Services\\AnimalService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Services\\AnimalService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\AnimalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Services\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Services\\IAnimalService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IAnimalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Repositories\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\AnimalRepository.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Repositories\\AnimalRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\AnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AnimalsController.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Repositories\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Repositories\\IAnimalRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T07:48:43.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\Models\\Animal.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:48:43.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\melan\\Desktop\\CS\\APBD\\Z3\\APBD_Zadanie_3\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T07:48:43.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
